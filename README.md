@@ -14,7 +14,7 @@
 flutter doctor
 ```
 
-!\[flutter doctor 全绿]\(docs/flutter\_doctor.png)
+![ flutter doctor 全绿 ](docs/flutter_doctor.png " flutter doctor 全绿 ")
 
 ## 运行方式
 
