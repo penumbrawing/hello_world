@@ -25,13 +25,6 @@ flutter run -d chrome     # Web 端
 flutter run -d emulator-5554   # Android 模拟器（设备 ID 以 flutter devices 为准）
 ```
 
-```
-flutter pub get          # 拉取依赖
-flutter devices           # 查看可用设备
-flutter run -d chrome     # Web 端
-flutter run -d emulator-5554   # Android 模拟器（设备 ID 以 flutter devices 为准）
-```
-
 ## 运行截图
 
 **Web 端（Chrome）：**
